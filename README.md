@@ -1,1 +1,4 @@
-# -Simple calculator created on C# as homework
+# 
+
+
+Simple calculator created on C# as homework
