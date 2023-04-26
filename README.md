@@ -1,1 +1,1 @@
-# -Calculator-on-sharp
+# -Simple calculator created on C# as homework
